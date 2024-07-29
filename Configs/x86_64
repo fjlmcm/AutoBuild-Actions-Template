@@ -26,3 +26,9 @@ CONFIG_TARGET_IMAGES_GZIP=y
 
 CONFIG_PACKAGE_luci-app-mosdns=y
 
+CONFIG_PACKAGE_luci-app-ipsec-vpnd=y
+CONFIG_PACKAGE_luci-app-openvpn-server=y
+CONFIG_PACKAGE_open-vm-tools=y
+CONFIG_PACKAGE_luci-app-mwan3=y
+CONFIG_PACKAGE_luci-app-syncdial=y
+CONFIG_PACKAGE_luci-app-easymesh=y
